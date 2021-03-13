@@ -1,1 +1,1 @@
-# SaturatedReversePolishCalculator
+# SaturatedReversePolishNotationCalculator
